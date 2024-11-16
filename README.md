@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @alifaily
-- 👀 I’m interested in data since
-- 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🚀 Analytics Enthusiast | SQL Wizard
+💡 BI Professional @ Boxy | Curious Learner
+💬 Let’s chat about data, tech, or strategy!
 
 <!---
 alifaily/alifaily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
